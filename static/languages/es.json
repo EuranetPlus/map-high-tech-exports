@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Qué porcentaje de exportaciones de alta tecnología representa la UE?",
+  "subtitle": "La proporción de exportaciones de alta tecnología a países no pertenecientes a la UE en 2022 es del 17,3%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Porcentaje de exportaciones de todos los productos de alta tecnología (definidos según la SITC Rev.4 como la suma de los productos relacionados con la industria aeroespacial, la informática y las máquinas de oficina, la electrónica y las telecomunicaciones, la farmacia, los instrumentos científicos, la maquinaria eléctrica, la química, la maquinaria no eléctrica y el armamento) respecto del total de las exportaciones. El agregado de la UE no incluye el comercio intracomunitario.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
