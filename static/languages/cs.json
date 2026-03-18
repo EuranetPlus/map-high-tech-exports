@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak vysoký je podíl exportu high-tech produktů v EU?",
+  "subtitle": "Podíl exportu high-tech produktů do států mimo EU v roce 2022 činil 17,3 %",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Podíl vývozu (v %) všech produktů vyspělých technologií (definovaných podle SITC Rev. 4 jako součet produktů týkajících se letectví a kosmonautiky, počítačů a kancelářských strojů, elektroniky a telekomunikací, farmacie, vědeckých přístrojů, elektrických strojů, chemie, neelektrických strojů a výzbroje) na celkovém vývozu. Agregát pro EU nezahrnuje obchod v rámci EU.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
