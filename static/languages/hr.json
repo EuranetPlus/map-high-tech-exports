@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliki je udio izvoza visoke tehnologije u EU?",
+  "subtitle": "Udio izvoza visoke tehnologije u države izvan EU u 2022. godini iznosi 17,3%",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Udio izvoza (u %) svih visokotehnoloških proizvoda (definiranih prema SITC Rev.4 kao zbroj proizvoda koji se odnose na zrakoplovstvo, računala i uredske strojeve, elektroniku i telekomunikacije, farmaciju, znanstvene instrumente, električne strojeve, kemiju, neelektrične strojeve i naoružanje) u ukupnom izvozu. Agregat za EU ne uključuje trgovinu unutar EU.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
