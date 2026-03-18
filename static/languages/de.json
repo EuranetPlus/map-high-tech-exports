@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch ist der Anteil der Hightech-Exporte in der EU?",
+  "subtitle": "Der Anteil der Hightech-Exporte in Nicht-EU-Staaten beträgt im Jahr 2022 17,3 %.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Anteil der Exporte (in %) aller Hightech-Produkte (definiert gemäß SITC Rev. 4 als Summe der Produkte aus den Bereichen Luft- und Raumfahrt, Computer/Büromaschinen, Elektronik/Telekommunikation, Pharmazie, wissenschaftliche Instrumente, Elektromaschinen, Chemie, nichtelektrische Maschinen und Rüstung) an den Gesamtexporten. Der EU-Gesamtwert schließt den innergemeinschaftlichen Handel nicht ein.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
