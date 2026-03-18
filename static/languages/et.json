@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui suur on kõrgtehnoloogilise ekspordi osakaal ELis?",
+  "subtitle": "Kõrgtehnoloogilise ekspordi osakaal ELi mittekuuluvatesse riikidesse oli 2022. aastal 17,3%",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Kõigi kõrgtehnoloogiliste toodete (määratletud SITC Rev.4 kohaselt kui lennunduse, arvutite ja kontorimasinate, elektroonika ja telekommunikatsiooni, farmaatsia, teadusinstrumentide, elektrimasinate, keemia, mitteelektriliste masinate ja relvastusega seotud toodete summa) ekspordi osakaal (protsentides) koguekspordis. ELi koondnäitaja ei hõlma ELi-sisest kaubandust.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
