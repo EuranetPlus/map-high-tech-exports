@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik liela ir augsto tehnoloģiju eksporta daļa ES?",
+  "subtitle": "Augsto tehnoloģiju eksporta īpatsvars uz valstīm ārpus ES 2022. gadā bija 17,3%",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Visu augsto tehnoloģiju produktu (saskaņā ar SITC 4. red. definēti kā to produktu summa, kas saistīti ar kosmosu, datoriem un biroja iekārtām, elektroniku un telekomunikācijām, farmāciju, zinātniskajiem instrumentiem, elektriskajām mašīnām, ķīmiju, neelektriskajām mašīnām, bruņojumu) eksporta daļa (%) no kopējā eksporta apjoma. ES kopsumma neietver ES iekšējo tirdzniecību.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
