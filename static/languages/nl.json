@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe hoog is het aandeel van hightechexport in de EU?",
+  "subtitle": "Het aandeel van de export van hightechproducten naar niet-EU-landen bedraagt in 2022 17,3%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Aandeel van de export (in %) van alle hoogtechnologische producten (gedefinieerd volgens SITC Rev.4 als de som van producten met betrekking tot lucht- en ruimtevaart, computers en kantoorapparatuur, elektronica en telecommunicatie, farmacie, wetenschappelijke instrumenten, elektrische machines, chemie, niet-elektrische machines en wapens) in de totale export. Het EU-totaal omvat niet de handel binnen de EU.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
