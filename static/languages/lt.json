@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kokia yra aukštųjų technologijų eksporto dalis ES?",
+  "subtitle": "Aukštųjų technologijų eksporto į ne ES šalis dalis 2022 m. sudarė 17,3 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Visų aukštųjų technologijų produktų (apibrėžtų pagal SITC 4 red. kaip su kosmosu, kompiuteriais ir biuro įranga, elektronika ir telekomunikacijomis, farmacija, moksliniais instrumentais, elektros mašinomis, chemija, neelektrinėmis mašinomis, ginkluote susijusių produktų suma) eksporto dalis (%), palyginti su bendru eksportu. Į ES suvestinius duomenis neįtraukta prekyba ES viduje.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
