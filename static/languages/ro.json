@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de mare este ponderea exporturilor de înaltă tehnologie în UE?",
+  "subtitle": "Ponderea exporturilor de înaltă tehnologie către state din afara UE în 2022 este de 17,3%",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Ponderea exporturilor (în %) din totalul exporturilor de produse de înaltă tehnologie (definite conform SITC Rev.4 ca suma produselor referitoare la industria aerospațială, calculatoare-mașini de birou, electronică-telecomunicații, farmacie, instrumente științifice, mașini electrice, chimie, mașini neelectrice, armament). Agregatul UE nu include comerțul intra-UE.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
