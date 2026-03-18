@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mekkora a high-tech export aránya az EU-ban?",
+  "subtitle": "A nem EU-s országokba irányuló high-tech export aránya 2022-ben 17,3% volt.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az összes csúcstechnológiás termék (a SITC Rev.4 szerint meghatározva, mint a repülőgépipar, számítógépek-irodai gépek, elektronika-telekommunikáció, gyógyszerészet, tudományos műszerek, elektromos gépek, kémia, nem elektromos gépek, fegyverzet) exportjának aránya (%-ban) a teljes exporton belül. Az EU összesített adatai nem tartalmazzák az EU-n belüli kereskedelmet.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
