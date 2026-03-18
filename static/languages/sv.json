@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur hög är andelen högteknologisk export i EU?",
+  "subtitle": "Andelen högteknologisk export till länder utanför EU år 2022 är 17,3 %",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Andel export (i %) av alla högteknologiska produkter (definierad enligt SITC Rev.4 som summan av produkter relaterade till flyg- och rymdindustrin, datorer-kontorsmaskiner, elektronik-telekommunikation, farmaci, vetenskapliga instrument, elektriska maskiner, kemi, icke-elektriska maskiner, försvarsmateriel) av den totala exporten. EU-aggregatet inkluderar inte handeln inom EU.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
